@@ -13,7 +13,7 @@ class TRIKURAA_147:
     def greet(self):
         return f"Hello, I'm {self.name}! Nice to meet you. 😊"
 
-nobitha = Nobitha(age='19+', nationality='Indian 🇮🇳', religion='Hindu 🥀', relationship_status='with you 💖', 
-                  skills=['Python', 'HTML', 'CSS'], languages=['Telugu', 'English', 'Hindi'], 
-                  contact='+919876543210 😔')
-print(nobitha.greet())  ## Output: Hello, I'm Nobitha! Nice to meet you. 😊
+TRIKURAA_147 = TRIKURAA_147(age='19+', nationality='Indian 🇮🇳', religion='Hindu 🥀', relationship_status='with you 💖', 
+                  skills=['Python', 'HTML', 'CSS'], languages=['KANNADA', 'Telugu', 'English', 'Hindi', 'Tamil'], 
+                  contact='+917813971263 😔')
+print(TIKURAA_147.greet())  ## Output: Hello, I'm TRIKURAA_147! Nice to meet you. 😊
